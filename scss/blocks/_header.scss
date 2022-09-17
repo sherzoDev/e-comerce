@@ -30,7 +30,7 @@
 }
 
 .dropdown-toggle::after {
-  background-image: url("../images/Vector.svg");
+  background-image: url("../images/arrow-down.svg");
   background-repeat: no-repeat;
   border: none;
   width: 10px;
@@ -42,7 +42,7 @@
 .form-control {
   border: none;
   border-radius: 50px;
-  background-image: url("../images/search.svg");
+  background-image: url("../images/search-icon.svg");
   background-repeat: no-repeat;
   background-position: 95% center;
 }
